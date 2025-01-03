@@ -15,29 +15,24 @@ The series is available on YouTube (@Tiger4Code). You can watch all episodes in 
 
 This repository is organized by episode number, with each folder containing a Jupyter Notebook that corresponds to the content covered in that episode. Below is an overview of the folder structure:
 
-Mastering-Time-Series-Analysis-and-Forecasting/ 
-│ ├── Episode_01/ 
-│ ├── episode_01_notebook.ipynb 
-│ └── additional_resources/ 
-│ ├── Episode_02/ 
-│ ├── episode_02_notebook.ipynb 
-│ └── additional_resources/ 
-│ ├── Episode_03/ 
-│ ├── episode_03_notebook.ipynb 
-│ └── additional_resources/ 
-│ └── ...
 
-Mastering-Time-Series-Analysis-and-Forecasting/ │ 
-├── Episode_01/ │ 
-├── episode_01_notebook.ipynb |
-    └── additional_resources/ 
-│ ├── Episode_02/ 
-│ ├── episode_02_notebook.ipynb 
-│ └── additional_resources/ 
-│ ├── Episode_03/ 
-│ ├── episode_03_notebook.ipynb 
-│ └── additional_resources/ 
-│ └── ...
+
+Mastering-Time-Series-Analysis-and-Forecasting/
+│
+├── Episode_01/
+│   ├── episode_01_notebook.ipynb
+│   └── additional_resources/
+│
+├── Episode_02/
+│   ├── episode_02_notebook.ipynb
+│   └── additional_resources/
+│
+├── Episode_03/
+│   ├── episode_03_notebook.ipynb
+│   └── additional_resources/
+│
+└── ...
+
 
 Each folder is named according to the episode number (e.g., `Episode_01`, `Episode_02`, etc.). Inside each folder, you'll find:
 - **episode_X_notebook.ipynb**: The Jupyter Notebook for that episode.
