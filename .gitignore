@@ -1,0 +1,55 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dylib
+*.dll
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# macOS-specific files
+.DS_Store
+
+# Python Egg and Distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# log files
+*.log
+
+# Environment variable files
+.env
+.env.*
+
+# Coverage directory
+.coverage
+coverage.xml
+*.cover
+
+# Test results
+nosetests.xml
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+*.pytest_cache/
