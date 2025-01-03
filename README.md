@@ -18,6 +18,7 @@ This repository is organized by episode number, with each folder containing a Ju
 
 
 Mastering-Time-Series-Analysis-and-Forecasting/
+```
 │
 ├── Episode_01/
 │   ├── episode_01_notebook.ipynb
@@ -32,6 +33,7 @@ Mastering-Time-Series-Analysis-and-Forecasting/
 │   └── additional_resources/
 │
 └── ...
+```
 
 
 Each folder is named according to the episode number (e.g., `Episode_01`, `Episode_02`, etc.). Inside each folder, you'll find:
