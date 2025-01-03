@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This series is based on real-world time-series forecasting problems, and we use popular Python libraries like **pandas**, **numpy**, **matplotlib**, **statsmodels**, and **seaborn** throughout the series.
-- Special thanks to all the contributors and viewers for supporting this learning community.
+- Special thanks to all the viewers for supporting this learning community.
 
 ---
 
