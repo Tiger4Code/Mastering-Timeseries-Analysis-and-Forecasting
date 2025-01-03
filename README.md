@@ -7,6 +7,8 @@ The series is available on YouTube. You can watch all episodes in the playlist b
 
 [Mastering Time-Series Analysis & Forecasting Playlist](https://www.youtube.com/playlist?list=PLVaP8SbYAAitZdhEU_rB-IpXsKSo0OAll)
 
+![Placeholder Image](images/mastering-timeseries.png)
+
 ---
 
 ## Repository Structure
