@@ -71,15 +71,6 @@ To use the Jupyter Notebooks locally, follow these steps:
 
 ---
 
-## Contributing
-
-If you would like to contribute to the repository, feel free to fork it and submit pull requests. Please make sure to:
-- Follow the structure and naming conventions of the repository.
-- Include appropriate comments in the notebooks.
-- Ensure that the code runs correctly and that no errors are present.
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -88,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- This series is based on real-world time-series forecasting problems, and we use popular Python libraries like **pandas**, **numpy**, **matplotlib**, **statsmodels**, and **prophet** throughout the series.
+- This series is based on real-world time-series forecasting problems, and we use popular Python libraries like **pandas**, **numpy**, **matplotlib**, **statsmodels**, and **seaborn** throughout the series.
 - Special thanks to all the contributors and viewers for supporting this learning community.
 
 ---
