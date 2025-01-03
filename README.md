@@ -3,7 +3,7 @@
 Welcome to the repository for **Mastering Time-Series Analysis & Forecasting**, a YouTube series dedicated to providing in-depth, hands-on tutorials for time-series analysis and forecasting using Python. This repository contains the Jupyter Notebooks for each episode of the series, organized by episode number.
 
 ### YouTube Playlist:
-The series is available on YouTube. You can watch all episodes in the playlist below:
+The series is available on YouTube (@Tiger4Code). You can watch all episodes in the playlist below:
 
 [Mastering Time-Series Analysis & Forecasting Playlist](https://www.youtube.com/playlist?list=PLVaP8SbYAAitZdhEU_rB-IpXsKSo0OAll)
 
@@ -19,6 +19,18 @@ Mastering-Time-Series-Analysis-and-Forecasting/
 │ ├── Episode_01/ 
 │ ├── episode_01_notebook.ipynb 
 │ └── additional_resources/ 
+│ ├── Episode_02/ 
+│ ├── episode_02_notebook.ipynb 
+│ └── additional_resources/ 
+│ ├── Episode_03/ 
+│ ├── episode_03_notebook.ipynb 
+│ └── additional_resources/ 
+│ └── ...
+
+Mastering-Time-Series-Analysis-and-Forecasting/ │ 
+├── Episode_01/ │ 
+├── episode_01_notebook.ipynb |
+    └── additional_resources/ 
 │ ├── Episode_02/ 
 │ ├── episode_02_notebook.ipynb 
 │ └── additional_resources/ 
@@ -84,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Enjoy learning and mastering time-series analysis and forecasting!
+Enjoy learning and mastering time-series analysis and forecasting with Tiger4Code!
