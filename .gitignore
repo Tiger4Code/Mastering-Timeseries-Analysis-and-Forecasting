@@ -53,3 +53,6 @@ nosetests.xml
 *.coverage
 *.hypothesis/
 *.pytest_cache/
+
+
+README.txt
